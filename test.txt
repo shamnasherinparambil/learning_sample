@@ -1,1 +1,2 @@
-test file edited
+test file edited.
+This file is going to be edited from feature branch
