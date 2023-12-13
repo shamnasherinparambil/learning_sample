@@ -1,7 +1,9 @@
 Shamna Sherin Parambil 
 Next edit from master branch
-<<<<<<< HEAD
+
 no,i cant
-=======
+
 yes can do
->>>>>>> feature
+
+jfnisdk
+nsfnksd
